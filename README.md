@@ -28,3 +28,4 @@ The Human Genome Variant Analysis and Reporting Tool is a Python-based applicati
 ## Installation
 1. Clone the repository:
 
+![image](https://github.com/cmorris2945/Human-Genome-Variant-Analysis-and-Reporting-Tool/assets/30676606/e6be77d6-2282-45d0-bc39-15eccbce89a0)
